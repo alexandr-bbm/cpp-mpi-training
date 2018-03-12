@@ -9,7 +9,7 @@
 #include "get_sd_index.h"
 #include "cluster_kohonen.h"
 
-#define DATA_FILE_PATH "/Users/alexandr.bbm/Google Drive/university/parallel_programming/lab2/data.csv"
+#define DATA_FILE_PATH "/Users/alexandr.bbm/CLionProjects/lab2/data.csv"
 const int MAX_DATA_VALUE = 1;
 const int CLUSTERS_NUM = 3;
 
